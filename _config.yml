@@ -7,7 +7,7 @@ description: "Code for Feature."
 keyword: "数据结构, 算法, 云原生, codeandcode, codeandcodec, 网关, k8s, codeci, istio"
 url: "http://codeandcode0x.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/codeandcode0x/codeandcode0x.github.io.git" # you code repository
+github_repo: "https://github.com/lywyue/lywyue.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
@@ -77,8 +77,8 @@ gitalk:
 ba_track_id: 958c856693cb1ade1647d4a7c97297ff
 
 # Google Analytics
-ga_track_id: 'G-LT5BCMCJQD'            # Format: UA-xxxxxx-xx
-ga_domain: codeandcode.cn               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
+ga_track_id: 'G-LT5BCMCJQE'            # Format: UA-xxxxxx-xx
+ga_domain: lywyue.cn               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
 
 
 
