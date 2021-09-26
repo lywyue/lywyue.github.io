@@ -3,12 +3,12 @@
     "title": "code for feature",
     "author": "codeandcode <codeandcode0x@gmail.com>",
     "version": "1.7.0",
-    "homepage": "http://lywyue.github.io",
+    "homepage": "http://lywyue.cn",
     "repository": {
         "type": "git",
-        "url": "https://github.com/lywyue/lywyue.github.io"
+        "url": "https://github.com/lywyue/lywyue.cn"
     },
-    "bugs": "https://github.com/lywyue/lywyue.github.io/issues",
+    "bugs": "https://github.com/lywyue/lywyue.cn/issues",
     "devDependencies": {
         "grunt": "~0.4.5",
         "grunt-contrib-less": "~0.11.4",
